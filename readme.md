@@ -5,7 +5,7 @@ Welcome to My Store, a simple e-commerce website made to showcase real store dat
 
 ![alt text](pic1.png) 
 ![alt text](pic2.jpg)
-#### Homepage of the website  contains the following sections:
+### Homepage of the website  contains the following sections:
 
 - Search Filter: allows users to search for products by keyword and filter products by category or by price range.
 
@@ -16,7 +16,7 @@ Welcome to My Store, a simple e-commerce website made to showcase real store dat
 - Pagination: allowing users to navigate through pages of products.
 
 
-The functionality of the website is implemented in the scripts.js file. 
+### The functionality of the website is implemented in the scripts.js file. 
 
 - Fetch Products: fetches the list of products from the API .
 
